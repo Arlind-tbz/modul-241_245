@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-obsidian text-white font-sans antialiased overflow-x-hidden;
+  }
+  
+  ::selection {
+    @apply bg-neon text-obsidian;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-surface/80 backdrop-blur-xl border border-white/10 rounded-2xl;
+  }
+  
+  .glass-panel-hover {
+    @apply hover:border-neon/50 hover:shadow-glow transition-all duration-300;
+  }
+
+  .text-neon {
+    text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
+  }
+}
+
+/* Film Grain Overlay */
+.noise-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Page Transitions */
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.4s ease, filter 0.4s ease;
+}
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+  filter: blur(10px);
+}
+
+/* Hide scrollbar for kinetic aesthetic */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
