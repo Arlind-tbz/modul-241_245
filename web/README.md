@@ -9,6 +9,7 @@ Parkplatz Sharing Zürich is a high-performance, neon-infused parking management
 ## 🎨 THE VIBE
 
 This isn't your average parking app. We've combined the precision of Zürich's urban planning with a bold, dark-mode aesthetic:
+
 - **Obsidian & Neon:** High-contrast visuals for night-time clarity.
 - **Kinetic Typography:** Powered by GSAP for a fluid, premium feel.
 - **Magnetic Interactions:** A bespoke cursor and UI elements that feel alive.
@@ -42,9 +43,11 @@ This isn't your average parking app. We've combined the precision of Zürich's u
 ## 📦 GETTING STARTED
 
 ### Prerequisites
+
 - [Bun](https://bun.sh/) (Recommended) or Node.js (v18+)
 
 ### Installation
+
 ```bash
 # Clone the repository
 git clone git@github.com:Arlind-tbz/modul-241_245.git
@@ -55,12 +58,14 @@ bun install
 ```
 
 ### Development
+
 ```bash
 # Start the dev server with hot reload
 bun run dev
 ```
 
 ### Build
+
 ```bash
 # Build for production
 bun run build
