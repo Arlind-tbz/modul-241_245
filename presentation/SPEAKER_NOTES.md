@@ -3,48 +3,47 @@
 ---
 
 ## Slide 1: Titelfolie (Parkplatz Sharing Zürich)
-- **Ziel**: Das Publikum sofort abholen.
-- **Hook**: "Wer von euch in Zürich Auto fährt, kennt den täglichen Frust der Parkplatzsuche am Abend."
-- **Intro**: "Wir beschäftigen uns heute intensiv mit einem ungelösten Problem: der ineffizienten Parkplatznutzung in unserer Stadt."
+- **Ziel**: Das Publikum sofort abholen und Spannung erzeugen.
+- **Hook**: "Wer von euch in Zürich Auto fährt, kennt das: Es ist 18:00 Uhr, man ist müde, will nach Hause – und dann beginnt die zweite Schicht: Die Parkplatzsuche."
+- **Intro**: "Wir beschäftigen uns heute mit der Frage, wie wir diesen täglichen Frust in unserer Stadt durch smarte Vernetzung beenden können."
 
 ## Slide 2: Der Status Quo (01-einstieg.md)
-- **Kontext**: "Zürich hat über **134'000 registrierte Autos** – und das ist nur die Spitze des Eisbergs."
-- **Der Schmerz**: "Jeden Abend verschwenden Tausende Zürcher Zeit und Nerven, indem sie um den Block kurven. Ein Alltagsproblem, das jeden betrifft."
+- **Kontext**: "Zürich wächst, aber der Platz bleibt gleich. Wir haben über **134'000 registrierte Autos** in der Stadt."
+- **Der Schmerz**: "Das Resultat? Tausende Zürcher kurven jeden Abend ziellos um den Block. Das verschwendet Lebenszeit, belastet die Umwelt und nervt die Anwohner."
 
 ## Slide 3: Analyse (02-problem-definition.md)
-- **Die Ironie**: "Während man verzweifelt sucht, **stehen private Garagen leer**. Das Problem ist nicht der Platzmangel, sondern die fehlende Vernetzung."
-- **Die Lücke**: "Es gibt kein System, um Privatplätze zu vermitteln. Kein Überblick, kein Kontakt, keine Spontaneität."
-- **Überleitung**: "➔ Angebot und Nachfrage finden schlichtweg nicht zueinander."
+- **Die Ironie**: "Während man draußen verzweifelt sucht, **stehen direkt nebenan private Garagen und Carports leer**. Das Problem ist kein Platzmangel, sondern ein massives Vermittlungsproblem."
+- **Die Lücke**: "Es gibt keine Brücke zwischen dem Besitzer, der Platz hat, und dem Fahrer, der ihn braucht. Kein Überblick, kein Kontakt, keine Spontaneität."
 
 ## Slide 4: Fakten & Insights (03-fakten.md)
-- **Das Volumen**: "70% der Privatgaragen werden nicht voll genutzt. Das ist immenses 'totes Kapital'."
-- **Der Schmerz in Zahlen**: "In Stosszeiten verbringen Fahrende bis zu 15 Minuten nur mit der Suche."
-- **Das Potenzial**: "Für Besitzer entgeht ein möglicher Tagesverdienst von CHF 40.-."
+- **Das Volumen**: "Wusstet ihr, dass viele Privatgaragen über **70% der Zeit ungenutzt** leer stehen? Das ist enormes 'totes Kapital' mitten in unseren Wohnquartieren."
+- **Der Zeitverlust**: "In Spitzenzeiten verlieren Zürcher bis zu **15 Minuten pro Suche**. Rechnet das mal auf ein Jahr hoch."
+- **Der Anreiz**: "Dabei könnten Besitzer mit minimalem Aufwand bis zu **CHF 40.- pro Tag** dazuverdienen."
 
 ## Slide 5: Bestehende Alternativen (04-kontext.md)
-- **Vergleich**:
-  - **Parkhäuser**: Zu teuer und oft nicht in den betroffenen Wohnquartieren.
-  - **EasyPark**: Löst das Problem nicht, da es nur öffentliche Zonen abdeckt.
-  - **Google/Suche**: Bietet kein Echtzeit-Booking für Privatbesitz.
-- **Die Marktlücke**: "Keine aktuelle Lösung verbindet private Anbieter direkt und unkompliziert mit Suchenden."
+- **Warum das Bisherige scheitert**:
+  - **Parkhäuser**: Sind oft zu teuer und liegen nicht dort, wo die Leute wohnen.
+  - **EasyPark**: Hilft nur in öffentlichen Zonen, die abends sowieso alle besetzt sind.
+  - **Google Suche**: Findet zwar Parkhäuser, aber keine privaten Geheimtipps in Echtzeit.
+- **Die Marktlücke**: "Es fehlt die P2P-Lösung (Peer-to-Peer), die private Ressourcen für die Allgemeinheit öffnet."
 
 ## Slide 6: Ideenfindung / Wie können wir... (05-design-challenge.md)
-- **Ziel**: Den Lösungsraum aufspannen.
-- **Fokus-Fragen**: "Wir haben uns verschiedene Fragen gestellt: Wie helfen wir bei der schnellen Suche? Wie reduzieren wir den ziellosen Suchverkehr?"
-- **Der Kern**: "Besonders wichtig: *Wie machen wir abends leer stehende Privatplätze für andere sicher nutzbar?*"
+- **Ziel**: Den Lösungsraum öffnen (nicht die App präsentieren!).
+- **Die Fragen**: "Wir haben uns gefragt: Wie helfen wir bei der schnelleren Suche? Wie verbessern wir die Übersicht? Und vor allem: **Wie machen wir private Leerstände sicher für andere nutzbar?**"
+- **Kernbotschaft**: "Es geht darum, die Suche so einfach zu machen, dass sie keinen extra Aufwand mehr bedeutet."
 
 ## Slide 7: Die Framed Challenge (06-call-to-action.md)
-- **Die Methode**: "Um das Problem messbar zu machen, haben wir es nach der 'Framed Challenge' Methode strukturiert: WER, WAS, WARUM und WOMIT."
-- **Unser Satz**: "Wir unterstützen **Zürcher Autofahrende** dabei, **abends stressfrei einen Parkplatz zu finden**, um **den Suchverkehr zu reduzieren**, indem wir **ungenutzte private Parkplätze digital zugänglich machen**."
-- **Takeaway**: "Das ist der klare Rahmen, in dem unsere zukünftige Lösung stattfinden wird."
+- **Der Fokus**: "Um das Problem greifbar zu machen, haben wir unsere 'Framed Challenge' definiert."
+- **WER/WAS/WARUM/WOMIT**: "Wir fokussieren uns auf **Zürcher Autofahrende**, die **abends stressfrei parken** wollen, um **Suchverkehr zu vermeiden**, indem wir **private Leerstände digital vernetzen**."
+- **Das Versprechen**: "Dies ist unser Nordstern für die Entwicklung der kommenden Lösung."
 
 ## Slide 8: Abschluss & Fragen (07-q-and-a.md)
-- **Abschluss**: "Vielen Dank für eure Aufmerksamkeit. Ein spezieller Dank geht an die Klassen **pe22a & pe22b**!"
-- **QA**: "Ich freue mich nun auf eure Fragen, Feedback oder erste Lösungsansätze."
+- **Abschluss**: "Vielen Dank für eure Aufmerksamkeit. Ein herzliches Dankeschön an die Klassen **pe22a & pe22b** für die wertvolle Unterstützung!"
+- **QA**: "Ich bin gespannt auf eure Fragen und euer Feedback zum Problemraum."
 
 ---
 
-### Pro-Tipps für den Pitch:
-- **Click to Reveal**: Da wir `<v-click>` nutzen: Erst den Punkt mündlich anteasern, dann klicken für den visuellen Impact.
-- **Problemfokus**: Verfalle nicht in Erklärungen einer App. Der Pitch dreht sich zu 100% darum, das Problem und die "Challenge" zu definieren!
-- **Quartiere nennen**: Namen wie *Seefeld* oder *Langstrasse* nutzen, um das Problem lokal greifbar zu machen.
+### Profi-Tipps für den Pitch:
+- **Storytelling**: Nutze Slide 2 und 3, um ein Bild im Kopf zu erzeugen (Regen, Dunkelheit, Kind auf dem Rücksitz, keine Lücke frei).
+- **Brutalist Style**: Deine Folien sind laut und direkt. Dein Sprechstil sollte ebenso selbstbewusst und fokussiert sein.
+- **Problem-Hoheit**: Wenn jemand nach der Technik fragt, antworte: "Die Technik ist der nächste Schritt. Heute geht es darum, dass wir dieses spezifische Problem in Zürich als Erster konsequent validiert haben."
