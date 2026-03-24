@@ -71,3 +71,7 @@ src: ./pages/05-design-challenge.md
 ---
 src: ./pages/06-call-to-action.md
 ---
+
+---
+src: ./pages/07-q-and-a.md
+---
