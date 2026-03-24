@@ -11,7 +11,7 @@ info: |
   Pitch für das Modul 241/245.
 drawings:
   persist: false
-transition: fade
+transition: slide-up
 title: Parkplatz Sharing Zürich
 mdc: true
 ---
