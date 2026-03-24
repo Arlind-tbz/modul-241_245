@@ -15,22 +15,22 @@ layout: center
 <table class="w-full text-left border-collapse">
 <thead>
 <tr class="bg-black text-white text-base font-black uppercase tracking-widest">
-<th class="p-3 border-b-4 border-black w-2/5">Lösung</th>
-<th class="p-3 border-b-4 border-black">Das Problem</th>
+<th class="p-4 border-b-4 border-black w-2/5">Lösung</th>
+<th class="p-4 border-b-4 border-black">Das Problem</th>
 </tr>
 </thead>
 <tbody class="divide-y-4 divide-black text-lg font-bold">
 <tr class="hover:bg-gray-100 transition-colors">
-<td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-xl">🏢</span> Parkhäuser</td>
-<td class="p-3 text-gray-700">Oft <span class="text-red-600">teuer</span>, kein Fokus auf Wohnquartiere</td>
+<td class="p-4 border-r-4 border-black flex items-center gap-3"><span class="text-2xl">🏢</span> Parkhäuser</td>
+<td class="p-4 text-gray-700">Oft <span class="text-red-600">teuer</span>, kein Fokus auf Wohnquartiere</td>
 </tr>
 <tr class="hover:bg-gray-100 transition-colors bg-[#F4F4F0]">
-<td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-2xl">📱</span> EasyPark</td>
-<td class="p-3 text-gray-700">Decken nur <span class="text-red-600">öffentliche Zonen</span> ab</td>
+<td class="p-4 border-r-4 border-black flex items-center gap-3"><span class="text-2xl">📱</span> EasyPark</td>
+<td class="p-4 text-gray-700">Decken nur <span class="text-red-600">öffentliche Zonen</span> ab (Blaue/Weisse Zone)</td>
 </tr>
 <tr class="hover:bg-gray-100 transition-colors">
-<td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-2xl">💬</span> WhatsApp</td>
-<td class="p-3 text-gray-700">Unstrukturiert, nicht skalierbar, <span class="text-red-600">zu langsam</span></td>
+<td class="p-4 border-r-4 border-black flex items-center gap-3"><span class="text-2xl">🔍</span> Google Maps / Search</td>
+<td class="p-4 text-gray-700">Kein <span class="text-red-600">Echtzeit-Booking</span> für Privatplätze</td>
 </tr>
 </tbody>
 </table>
