@@ -3,7 +3,7 @@ layout: center
 class: text-center
 ---
 
-# � Parkieren in Zürich ist ein tägliches Problem
+# Parkieren in Zürich ist ein tägliches Problem
 
 <br>
 
