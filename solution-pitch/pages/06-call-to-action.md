@@ -26,7 +26,7 @@ layout: center
   <div class="text-xl font-black text-blue-600 w-16 text-center">Q4 26</div>
   <div class="flex-1">
     <h3 class="text-sm font-black uppercase mb-0">Integration Privat-Plätze</h3>
-    <p class="text-[11px] text-gray-600 leading-tight">Skalierung durch private Anbieter (ST & IT).</p>
+    <p class="text-[11px] text-gray-600 leading-tight">Skalierung durch private Anbieter.</p>
   </div>
 </div>
 </v-click>

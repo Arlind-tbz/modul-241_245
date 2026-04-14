@@ -22,15 +22,15 @@ layout: center
 <tbody class="divide-y-2 divide-black text-base font-bold">
 <tr class="hover:bg-gray-100 transition-colors">
 <td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-xl">🔒</span> Datenschutz</td>
-<td class="p-3 text-blue-600">Anonymisierte Parkdaten (für ÄR)</td>
+<td class="p-3 text-blue-600">Anonymisierte Parkdaten</td>
 </tr>
 <tr class="hover:bg-gray-100 transition-colors bg-blue-50">
 <td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-xl">👴</span> Usability</td>
-<td class="p-3 text-blue-600">One-Tap-Booking, grosse Schrift (für RN)</td>
+<td class="p-3 text-blue-600">One-Tap-Booking, grosse Schrift</td>
 </tr>
 <tr class="hover:bg-gray-100 transition-colors">
 <td class="p-3 border-r-4 border-black flex items-center gap-2"><span class="text-xl">🎯</span> Genauigkeit</td>
-<td class="p-3 text-blue-600">Kontinuierliches AI-Training (für IT & PL)</td>
+<td class="p-3 text-blue-600">Kontinuierliches AI-Training</td>
 </tr>
 </tbody>
 </table>
@@ -47,5 +47,5 @@ layout: center
 </div>
 
 <!--
-Datenschutz ist für die Ärztin zentral, die einfache Bedienung für die Rentnerin.
+Datenschutz und einfache Bedienung sind elementar. Wir adressieren diese Punkte von Tag 1 an.
 -->
