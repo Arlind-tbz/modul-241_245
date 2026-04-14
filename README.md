@@ -1,4 +1,5 @@
 # Modul 241 & 245
 
 - [parking.sulej.ch](https://parking.sulej.ch)
-- [modul-241-245.presentation.sulej.ch](https://modul-241-245.presentation.sulej.ch/)
+- [problem-pitch.sulej.ch](https://problem-pitch.sulej.ch/)
+- [solution-pitch.sulej.ch](https://solution-pitch.sulej.ch/)
