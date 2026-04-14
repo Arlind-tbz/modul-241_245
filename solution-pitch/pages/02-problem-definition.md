@@ -10,21 +10,18 @@ layout: two-cols
 <v-click>
 <div class="bg-blue-50 p-3 border-l-4 border-blue-600">
   <p class="font-bold text-sm italic">"Wenn das wirklich funktioniert, wäre das Gold wert."</p>
-  <p class="text-[10px] font-black uppercase mt-1">— PL, Projektleiter (38)</p>
 </div>
 </v-click>
 
 <v-click>
 <div class="bg-gray-50 p-3 border-l-4 border-black">
   <p class="font-bold text-sm italic">"Schon zuhause wissen wohin – das ist das Beste."</p>
-  <p class="text-[10px] font-black uppercase mt-1">— ÄR, Ärztin (45)</p>
 </div>
 </v-click>
 
 <v-click>
 <div class="bg-blue-50 p-3 border-l-4 border-blue-600">
   <p class="font-bold text-sm italic">"Schwarmintelligenz ohne Hardware ist clever."</p>
-  <p class="text-[10px] font-black uppercase mt-1">— IT, Consultant (31)</p>
 </div>
 </v-click>
 </div>
