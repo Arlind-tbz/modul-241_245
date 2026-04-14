@@ -2,47 +2,47 @@
 layout: center
 ---
 
-<div class="text-center mb-10 pt-4">
-<div class="inline-block border-4 border-black bg-white px-4 py-1 text-xs font-black uppercase tracking-widest mb-4 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transform -rotate-1">
-Die nackten Zahlen
+<div class="text-center mb-6 pt-0">
+<div class="inline-block border-2 border-black bg-white px-3 py-1 text-[10px] font-black uppercase tracking-widest mb-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] transform -rotate-1">
+Unsere Lösung
 </div>
-<h1 class="text-5xl font-black">Fakten & Insights</h1>
+<h1 class="text-4xl font-black">ParkAI - Die Features</h1>
 </div>
 
-<div class="grid grid-cols-3 gap-6 max-w-5xl mx-auto px-4">
+<div class="grid grid-cols-3 gap-4 max-w-5xl mx-auto px-4 w-full">
 <v-click>
-<div class="bg-white border-4 border-black p-6 relative shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
-<div class="absolute -top-4 -left-4 bg-red-600 text-white w-10 h-10 flex items-center justify-center font-black text-xl border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">1</div>
-<div class="text-5xl font-black mb-4 tracking-tighter">134<span class="text-red-600">k</span></div>
-<div class="text-lg font-bold text-gray-800 leading-snug">Registrierte Autos in der Stadt Zürich</div>
+<div class="bg-white border-4 border-black p-4 relative shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
+<div class="absolute -top-3 -left-3 bg-blue-600 text-white w-8 h-8 flex items-center justify-center font-black text-lg border-2 border-black shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">1</div>
+<div class="text-4xl font-black mb-2 tracking-tighter">AI<span class="text-blue-600">.</span></div>
+<div class="text-base font-bold text-gray-800 leading-tight">Präzise Vorhersage durch Schwarmintelligenz</div>
 </div>
 </v-click>
 
 <v-click>
-<div class="bg-white border-4 border-black p-6 relative shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
-<div class="absolute -top-4 -left-4 bg-blue-600 text-white w-10 h-10 flex items-center justify-center font-black text-xl border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">2</div>
-<div class="text-5xl font-black mb-4 tracking-tighter">15<span class="text-blue-600">m</span></div>
-<div class="text-lg font-bold text-gray-800 leading-snug">Parkplatzsuche in den Stosszeiten</div>
+<div class="bg-white border-4 border-black p-4 relative shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
+<div class="absolute -top-3 -left-3 bg-blue-400 text-white w-8 h-8 flex items-center justify-center font-black text-lg border-2 border-black shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">2</div>
+<div class="text-4xl font-black mb-2 tracking-tighter">70<span class="text-blue-400">%</span></div>
+<div class="text-base font-bold text-gray-800 leading-tight">Mobilisierung ungenutzter Privat-Parkplätze</div>
 </div>
 </v-click>
 
 <v-click>
-<div class="bg-white border-4 border-black p-6 relative shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
-<div class="absolute -top-4 -left-4 bg-green-500 text-black w-10 h-10 flex items-center justify-center font-black text-xl border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">3</div>
-<div class="text-5xl font-black mb-4 tracking-tighter">40<span class="text-green-500">.-</span></div>
-<div class="text-lg font-bold text-gray-800 leading-snug">Möglicher Tagesverdienst (CHF)</div>
+<div class="bg-white border-4 border-black p-4 relative shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] transition-all duration-200">
+<div class="absolute -top-3 -left-3 bg-green-500 text-black w-8 h-8 flex items-center justify-center font-black text-lg border-2 border-black shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">3</div>
+<div class="text-4xl font-black mb-2 tracking-tighter">$$$</div>
+<div class="text-base font-bold text-gray-800 leading-tight">Dynamic Pricing - Fairer Preis für beide Seiten</div>
 </div>
 </v-click>
 </div>
 
-<div class="mt-12 text-xl font-bold space-y-4 max-w-4xl mx-auto border-l-8 border-black pl-6">
+<div class="mt-6 text-lg font-bold space-y-2 max-w-4xl mx-auto border-l-8 border-black pl-6">
 <v-clicks>
-<div><span class="bg-black text-white px-2">8 Quartiere</span> sind besonders stark vom Mangel betroffen.</div>
-<div>Privatgaragen stehen über <span class="border-b-4 border-red-600">70% der Zeit</span> ungenutzt leer.</div>
-<div>Die Nachfrage nach Übernacht-Parkplätzen steigt stetig.</div>
+<div><span class="bg-black text-white px-2">Keine Hardware</span> nötig – rein softwarebasiert.</div>
+<div><span class="border-b-4 border-blue-600">Full Transparency</span> über Kosten & Verfügbarkeit.</div>
+<div>Optimiert für die <span class="text-blue-600 font-black">Zürcher Rushhour</span> am Abend.</div>
 </v-clicks>
 </div>
 
 <!--
-Zahlen belegen: Das Problem ist real, die Marktlücke ist gross. Korrekte Statistiken verwenden!
+Wir nutzen die 70% Leerstand der Privatgaragen und verwandeln sie in eine Ressource.
 -->

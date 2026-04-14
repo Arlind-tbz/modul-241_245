@@ -30,22 +30,22 @@ h1, h2, h3, h4, h5, h6 {
 
 <div class="h-full flex flex-col justify-center items-start text-left pl-16">
   <div class="inline-block bg-black text-white px-5 py-2 text-sm font-bold uppercase tracking-widest mb-8 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-    Problem Pitch
+    Solution Pitch
   </div>
   
   <h1 class="text-7xl md:text-8xl font-black leading-[0.9] mb-6">
-    Parkplatz <br/>
-    <span class="text-transparent bg-clip-text bg-gradient-to-r from-red-600 to-orange-500">Sharing</span> <br/>
-    Zürich.
+    ParkAI <br/>
+    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-500">Zürich</span> <br/>
+    Solution.
   </h1>
 
   <div class="mt-8 text-2xl font-bold text-gray-700 border-l-8 border-black pl-6 py-2">
-    Modul 241 / 245
+    Parkplatz-Sorgen adé.
   </div>
 </div>
 
 <!--
-Willkommen! Dies ist der Pitch für unsere Parkplatz-Sharing-Lösung.
+Willkommen zum Solution Pitch für ParkAI – die intelligente Lösung für den Parkplatz-Dschungel in Zürich.
 -->
 
 ---
