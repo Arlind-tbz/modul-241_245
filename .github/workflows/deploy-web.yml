@@ -1,0 +1,18 @@
+name: Deploy web to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'web/**'
+      - '.github/workflows/deploy-web.yml'
+
+jobs:
+  trigger-deploy:
+    name: Trigger Cloudflare Pages Deploy Hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy hook
+        run: |
+          curl -X POST "${{ secrets.CF_PAGES_WEBHOOK_WEB }}"
