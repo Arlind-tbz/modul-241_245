@@ -16,7 +16,7 @@ layout: center
 <div class="text-lg mb-1">🎟️</div>
 <div class="font-black uppercase text-[10px] tracking-widest mb-1">Pay-per-use</div>
 <div class="text-2xl font-black text-gray-800">2.50<span class="text-xs">CHF</span></div>
-<div class="text-[9px] font-bold text-gray-500 mt-1">pro Buchung</div>
+<div class="text-[9px] font-bold text-gray-500 mt-1">Plattformgebühr / Buchung</div>
 </div>
 <div class="bg-white border-2 border-emerald-500 p-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
 <div class="text-lg mb-1">⭐</div>
@@ -47,12 +47,13 @@ layout: center
 <div class="text-xs font-black uppercase text-gray-500">behält ParkAI</div>
 </div>
 </div>
-<div class="border-t-2 border-black pt-3">
-<div class="text-[9px] font-black uppercase text-gray-400 mb-1">Beispiel-Rechnung</div>
+<div class="border-t-2 border-black pt-2">
+<div class="text-[9px] font-black uppercase text-gray-400 mb-1">ParkAI Vorschlagspreis pro Std. <span class="text-gray-500 normal-case">(Anbieter kann anpassen)</span></div>
 <div class="space-y-1 text-xs font-bold">
-<div class="flex justify-between"><span>Abend (5 Std.) CHF 10 Parkgebühr</span><span class="text-emerald-600">→ CHF 8 für Anbieter</span></div>
-<div class="flex justify-between"><span>Arbeitstag (8 Std.) CHF 20</span><span class="text-emerald-600">→ CHF 16 für Anbieter</span></div>
-<div class="flex justify-between font-black"><span>Maximum / Tag CHF 50</span><span class="text-emerald-600">→ CHF 40 für Anbieter</span></div>
+<div class="flex justify-between"><span>Außenquartiere (z.B. Schwamendingen, Affoltern)</span><span class="text-emerald-600">CHF 2/h</span></div>
+<div class="flex justify-between"><span>Mittlere Kreise (z.B. Wiedikon, Oerlikon)</span><span class="text-emerald-600">CHF 3/h</span></div>
+<div class="flex justify-between"><span>City / Seefeld / Langstrasse</span><span class="text-emerald-600">CHF 4/h</span></div>
+<div class="flex justify-between text-[10px] text-gray-500"><span>+ Stosszeiten-Premium (18–22h)</span><span>+CHF 1/h</span></div>
 </div>
 </div>
 </div>
@@ -61,6 +62,6 @@ layout: center
 
 <div class="bg-emerald-600 text-white border-4 border-black p-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center gap-4">
 <div class="text-xl">💰</div>
-<p class="text-sm font-black">Passiveinkommen: 20 Abende/Monat × CHF 8 = <span class="underline decoration-2">CHF 160/Monat</span> — ohne Hardware, ohne Aufwand.</p>
+<p class="text-sm font-black">Beispiel Anbieter: Mittlere Lage, 5h Abend (CHF 15) × 20 Abende/Mo = <span class="underline decoration-2">CHF 240/Mo</span> passiv — ohne Hardware, ohne Aufwand.</p>
 </div>
 </div>
