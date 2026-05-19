@@ -85,9 +85,13 @@ src: ./pages/09-cost-structure.md
 ---
 
 ---
-src: ./pages/10-lean-canvas-overview.md
+src: ./pages/10-break-even.md
 ---
 
 ---
-src: ./pages/11-closing.md
+src: ./pages/11-lean-canvas-overview.md
+---
+
+---
+src: ./pages/12-closing.md
 ---
