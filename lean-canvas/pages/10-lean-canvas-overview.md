@@ -25,7 +25,7 @@ layout: center
 
 <div class="col-span-2 bg-white border-2 border-black p-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
 <div class="text-emerald-600 font-black uppercase tracking-wider text-[9px] mb-1">Customer Segments</div>
-<p class="font-bold leading-tight">Autofahrende in Zürich, die abends in die Stadt fahren</p>
+<p class="font-bold leading-tight">Abendfahrer · Stadtarbeiter (Bauarbeiter, Handwerker) · Privatparkplatz-Anbieter</p>
 </div>
 
 <div class="col-span-1 bg-white border-2 border-black p-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
@@ -50,6 +50,6 @@ layout: center
 
 <div class="col-span-2 bg-emerald-600 text-white border-2 border-black p-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
 <div class="font-black uppercase tracking-wider text-[9px] mb-1 text-emerald-200">Revenue Streams</div>
-<p class="font-bold leading-tight">Pay-per-use CHF 2.50 · Standard CHF 14.90 · Premium CHF 29.90</p>
+<p class="font-bold leading-tight">Fahrer: CHF 2.50 / CHF 14.90 / CHF 29.90 — Anbieter: 80% der Parkgebühr (bis CHF 40/Tag)</p>
 </div>
 </div>
