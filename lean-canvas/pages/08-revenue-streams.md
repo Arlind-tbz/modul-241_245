@@ -1,53 +1,64 @@
 ---
-layout: default
+layout: center
 ---
 
-# Revenue Streams · Stadt Zürich
-
-**Was Nutzer bezahlen**
-
-<div class="grid grid-cols-3 gap-4 mt-6">
-
-<div class="border rounded-lg p-6">
-
-### 🎟️ Pay-per-use
-
-- **CHF 2.50** pro Reservierung
-- Kein Abo nötig
-- Zahlung via Twint / Apple Pay
-- Ideal für Gelegenheitsnutzer
-
+<div class="text-center mb-5">
+  <div class="inline-block border-2 border-black bg-white px-3 py-1 text-[10px] font-black uppercase tracking-widest mb-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] transform rotate-1">
+    Lean Canvas · 8 / 9
+  </div>
+  <h1 class="text-4xl font-black">Revenue Streams – Was Nutzer bezahlen.</h1>
 </div>
 
-<div class="border-2 border-blue-400 rounded-lg p-6">
+<div class="grid grid-cols-3 gap-4 max-w-5xl mx-auto w-full">
+  <v-click>
+  <div class="bg-white border-4 border-black p-5 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+    <div class="text-2xl mb-2">🎟️</div>
+    <div class="font-black uppercase text-sm tracking-widest mb-3">Pay-per-use</div>
+    <div class="text-4xl font-black text-gray-800 mb-3">CHF<br/>2.50</div>
+    <ul class="text-xs font-bold text-gray-700 space-y-1">
+      <li>Kein Abo nötig</li>
+      <li>Zahlung via Twint / Apple Pay</li>
+      <li>Ideal für Gelegenheitsnutzer</li>
+    </ul>
+  </div>
+  </v-click>
 
-### ⭐ Standard
+  <v-click>
+  <div class="bg-white border-4 border-emerald-500 p-5 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] relative">
+    <div class="absolute -top-3 left-1/2 -translate-x-1/2 bg-emerald-500 text-white text-[9px] font-black uppercase tracking-widest px-3 py-1 border-2 border-black">Beliebt</div>
+    <div class="text-2xl mb-2">⭐</div>
+    <div class="font-black uppercase text-sm tracking-widest mb-3">Standard</div>
+    <div class="text-4xl font-black text-emerald-600 mb-3">CHF<br/>14.90<span class="text-base">/Mo</span></div>
+    <ul class="text-xs font-bold text-gray-700 space-y-1">
+      <li>20 Reservierungen / Monat</li>
+      <li>Echtzeit-Verfügbarkeit</li>
+      <li>Basis-Vorhersage (30 Min.)</li>
+    </ul>
+  </div>
+  </v-click>
 
-- **CHF 14.90 / Monat**
-- 20 Reservierungen / Monat
-- Echtzeit-Verfügbarkeit
-- Basis-Vorhersage (30 Min.)
-- Twint / Apple Pay
-
+  <v-click>
+  <div class="bg-black text-white border-4 border-black p-5 shadow-[6px_6px_0px_0px_rgba(16,185,129,1)]">
+    <div class="text-2xl mb-2">💎</div>
+    <div class="font-black uppercase text-sm tracking-widest mb-3 text-emerald-400">Premium</div>
+    <div class="text-4xl font-black text-emerald-400 mb-3">CHF<br/>29.90<span class="text-base">/Mo</span></div>
+    <ul class="text-xs font-bold text-gray-300 space-y-1">
+      <li>Unlimitierte Reservierungen</li>
+      <li>KI-Vorhersage (2 Std. im Voraus)</li>
+      <li>Priority-Zugang bei Stosszeiten</li>
+      <li>Monatlicher Parkkosten-Report</li>
+    </ul>
+  </div>
+  </v-click>
 </div>
 
-<div class="border-2 border-red-400 rounded-lg p-6">
-
-### 💎 Premium
-
-- **CHF 29.90 / Monat**
-- Unlimitierte Reservierungen
-- KI-Vorhersage (2 Std. im Voraus)
-- Priority-Zugang bei Stosszeiten
-- Reservierung ab Unterwegs
-- Monatlicher Parkkosten-Report
-
+<v-click>
+<div class="mt-4 max-w-5xl mx-auto bg-white border-4 border-black p-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center gap-3">
+  <div class="text-xl">📍</div>
+  <p class="text-sm font-black">Launch Zürich Stadt: Alle <span class="text-emerald-600">12 Stadtkreise</span> ab Tag 1 — volle Marktabdeckung, maximale Schwarm-Daten.</p>
 </div>
+</v-click>
 
-</div>
-
-<div class="border rounded-lg p-4 mt-4">
-
-📍 **Launch Zürich Stadt:** Alle **12 Stadtkreise** ab Tag 1 — volle Marktabdeckung, maximale Schwarm-Daten von Anfang an.
-
-</div>
+<!--
+Dreistufiges Preismodell für maximale Marktabdeckung.
+-->

@@ -57,7 +57,7 @@ src: ./pages/02-customer-segments.md
 ---
 
 ---
-src: ./pages/03-unique-value-proposition.md
+src: ./pages/03-uvp.md
 ---
 
 ---
@@ -65,13 +65,29 @@ src: ./pages/04-solution.md
 ---
 
 ---
-src: ./pages/05-channels.md
+src: ./pages/05-unfair-advantage.md
 ---
 
 ---
-src: ./pages/06-revenue-cost.md
+src: ./pages/06-channels.md
 ---
 
 ---
 src: ./pages/07-key-metrics.md
+---
+
+---
+src: ./pages/08-revenue-streams.md
+---
+
+---
+src: ./pages/09-cost-structure.md
+---
+
+---
+src: ./pages/10-lean-canvas-overview.md
+---
+
+---
+src: ./pages/11-closing.md
 ---
