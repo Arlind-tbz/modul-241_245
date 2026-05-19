@@ -1,38 +1,41 @@
 ---
-layout: center
+layout: default
 ---
 
-<div class="max-w-4xl mx-auto pl-8">
-  <div class="text-emerald-600 font-bold tracking-widest uppercase text-sm mb-4">Lösung</div>
-  <h1 class="text-6xl font-black leading-[1.1] mb-10">
-    ParkAI in <br/> <span class="bg-emerald-600 text-white px-3 py-1 leading-tight transform -rotate-1 inline-block mt-2">drei Schritten.</span>
-  </h1>
+# Solution
 
-  <div class="space-y-4 mt-6">
-    <div class="flex items-center gap-6 bg-white p-6 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-      <div class="text-5xl font-black text-emerald-600 w-16 flex-shrink-0">01</div>
-      <div>
-        <h3 class="font-black text-xl">Parkplatz inserieren</h3>
-        <p class="text-gray-600">Besitzer tragen Verfügbarkeit ein – in unter 2 Minuten via App.</p>
-      </div>
-    </div>
-    <div class="flex items-center gap-6 bg-white p-6 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-      <div class="text-5xl font-black text-emerald-600 w-16 flex-shrink-0">02</div>
-      <div>
-        <h3 class="font-black text-xl">KI matcht Angebot & Nachfrage</h3>
-        <p class="text-gray-600">Algorithmus schlägt den besten Platz basierend auf Route, Zeit und Preis vor.</p>
-      </div>
-    </div>
-    <div class="flex items-center gap-6 bg-white p-6 border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-      <div class="text-5xl font-black text-emerald-600 w-16 flex-shrink-0">03</div>
-      <div>
-        <h3 class="font-black text-xl">Sicher buchen & bezahlen</h3>
-        <p class="text-gray-600">Kontaktlose Bezahlung, digitaler Zugang – alles in einer App.</p>
-      </div>
-    </div>
-  </div>
+**Wie lösen wir das Problem?**
+
+<div class="grid grid-cols-3 gap-4 mt-6">
+
+<div class="border rounded-lg p-6">
+
+### 📍 Dynamische Planung
+
+Echtzeit-Verfügbarkeit statt statischer Karten. Das System passt sich laufend an.
+
 </div>
 
-<!--
-Die drei Schritte decken den gesamten Nutzerfluss ab – von der Buchung bis zur Ankunft.
--->
+<div class="border rounded-lg p-6">
+
+### 🧠 Predictive AI
+
+Vorhersage freier Plätze basierend auf historischen Daten und Nutzerverhalten.
+
+</div>
+
+<div class="border rounded-lg p-6">
+
+### 👥 Schwarm-Intelligenz
+
+Jeder Nutzer verbessert das Modell. Mehr Nutzer = bessere Vorhersagen.
+
+</div>
+
+</div>
+
+<div class="border rounded-lg p-4 mt-4">
+
+Bestehende Alternativen: **EasyPark, Google Maps, Bahnhofs-Displays** — keiner kombiniert Vorhersage + Reservierung + Schwarm-Daten.
+
+</div>
