@@ -10,26 +10,29 @@ layout: center
 <div class="max-w-5xl mx-auto w-full">
 <div class="grid grid-cols-2 gap-4 mb-3">
 <div>
-<div class="text-emerald-600 font-black uppercase text-xs tracking-widest mb-2 flex items-center gap-2"><span class="bg-emerald-600 text-white px-2 py-0.5 text-[9px]">FAHRER</span> Was Nutzer bezahlen</div>
+<div class="text-emerald-600 font-black uppercase text-xs tracking-widest mb-2 flex items-center gap-2"><span class="bg-emerald-600 text-white px-2 py-0.5 text-[9px]">FAHRER</span> Plattformgebühr</div>
 <div class="grid grid-cols-3 gap-2">
 <div class="bg-white border-2 border-black p-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
 <div class="text-lg mb-1">🎟️</div>
 <div class="font-black uppercase text-[10px] tracking-widest mb-1">Pay-per-use</div>
 <div class="text-2xl font-black text-gray-800">2.50<span class="text-xs">CHF</span></div>
-<div class="text-[9px] font-bold text-gray-500 mt-1">Plattformgebühr / Buchung</div>
+<div class="text-[9px] font-bold text-gray-500 mt-1">pro Buchung</div>
 </div>
 <div class="bg-white border-2 border-emerald-500 p-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
 <div class="text-lg mb-1">⭐</div>
 <div class="font-black uppercase text-[10px] tracking-widest mb-1 text-emerald-600">Standard</div>
 <div class="text-2xl font-black text-emerald-600">14.90<span class="text-xs">/Mo</span></div>
-<div class="text-[9px] font-bold text-gray-500 mt-1">20 Buchungen</div>
+<div class="text-[9px] font-bold text-gray-500 mt-1">bis 20 Buchungen/Mo</div>
 </div>
 <div class="bg-black text-white border-2 border-black p-3 shadow-[4px_4px_0px_0px_rgba(16,185,129,1)]">
 <div class="text-lg mb-1">💎</div>
 <div class="font-black uppercase text-[10px] tracking-widest mb-1 text-emerald-400">Premium</div>
 <div class="text-2xl font-black text-emerald-400">29.90<span class="text-xs">/Mo</span></div>
-<div class="text-[9px] font-bold text-gray-400 mt-1">Unlimited</div>
+<div class="text-[9px] font-bold text-gray-400 mt-1">unlimited Buchungen</div>
 </div>
+</div>
+<div class="mt-2 bg-gray-100 border-2 border-black p-2 text-[10px] font-bold text-gray-700">
+⚠️ <span class="font-black">Wichtig:</span> Abo deckt nur Plattformgebühr. Parkgebühr (CHF 2–4/h) zahlt der Fahrer immer pro Buchung — 80% gehen direkt an den Anbieter.
 </div>
 </div>
 
